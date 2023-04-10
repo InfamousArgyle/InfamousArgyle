@@ -21,7 +21,7 @@ currently i am employed as a marine biologist and work aboard commercial fishing
 - collecting preliminary family-level macroinvertebrate community composition data of Louisiana Waterthrush-occupied streams
 - describing streams used by Louisiana Waterthrush during their breeding season using a standardized macroinvertebrate survey
 
-## My interests, regardless of field or subject matter are:
+## my interests, regardless of field or subject matter are:
 - finding and depicting relationships between and within diverse groups of wildlife
 - creating visually engaging and compelling works and figures using a variety of motifs and media
 - luring you in with my visual lexicon
