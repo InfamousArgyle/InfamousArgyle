@@ -7,5 +7,9 @@
   width: 50%;
 }
 </style>
-<div style="halfwidth"></div>
-<div
+<div style="halfwidth">
+*I have no idea what I'm doing* 
+oh yeah this is great wtf
+
+</div>
+<div> </div>
