@@ -12,7 +12,7 @@ currently i am employed as a marine biologist and work aboard commercial fishing
 
 ## ongoing personal projects
 - creation of custom maps and gameplay elements for the SonoraBuild Minecraft Server
-- development of portfolio for prospective MFA admissions portfolio
+- development of portfolio for prospective MFA admissions
 - brainstorming an eventual naturalism-based RPG
 - collecting resources for musical project (will i become a rapper?)
 
