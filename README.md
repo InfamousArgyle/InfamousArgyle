@@ -1,3 +1,6 @@
+![Header](./header-image.png)
+
+
 # about me
 i am 29 years old and first and foremost: an artist.
 currently i am employed as a marine biologist and work aboard commercial fishing vessels where I collect data on their catch.
